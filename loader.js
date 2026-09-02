@@ -6,7 +6,7 @@
         'dividend_': '5000_dividend.json'
     };
 
-    const baseUrl = 'https://raw.githubusercontent.com/katekdy55-dot/link_html/main/';
+    const baseUrl = 'https://raw.githubusercontent.com/katekdy55-dot/link_html_v2/main/';
 
     async function loadJsonContents() {
 
