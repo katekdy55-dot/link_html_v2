@@ -1,8 +1,8 @@
 (function () {
 
     const jsonFiles = {
-      //  'stockinfo_': '2000_stockinfo.json',
-      //  'hotstock_': '3000_hotstock.json',
+        'stockinfo_': '2000_stockinfo.json',
+        'hotstock_': '3000_hotstock.json',
         'dividend_': '5000_dividend.json'
     };
 
