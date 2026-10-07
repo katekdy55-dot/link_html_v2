@@ -1,10 +1,9 @@
 {
   "_comment": "배편예약 포스팅(7000부터)",
 
-  "ferry_0_A": {
-    "active": true,
-    "_comment": "배당금 계산기 (2026-10 리뉴얼)",
-     "html": "파라미터 가져오기"
+ "ferry_0_A": {
+  "active": true,
+  "html": "<div style=\"text-align:center\"><p>{{keyword}} 관련 정보</p><a href=\"https://dividends.kdybest.com/?keyword={{keyword_url}}\">{{keyword}} 확인하기</a></div>"
   },
 
   "ferry_1_A": {
