@@ -109,7 +109,19 @@
                         return;
                     }
 
-                    box.innerHTML = item.html;
+                    let html = item.html;
+
+                    // html 안에 {{...}}가 있을 때만 치환 (없으면 기존과 완전히 동일)
+                    // 예: data-keyword="KG이니시스" → {{keyword}}, {{keyword_url}}(인코딩)
+                    if (html.indexOf('{{') !== -1) {
+                        for (const k in box.dataset) {
+                            const v = box.dataset[k];
+                            html = html.split('{{' + k + '}}').join(v);
+                            html = html.split('{{' + k + '_url}}').join(encodeURIComponent(v));
+                        }
+                    }
+
+                    box.innerHTML = html;
 
                     console.log(
                         '[JSON Loader] 출력 완료:',
