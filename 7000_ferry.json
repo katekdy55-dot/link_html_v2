@@ -3,7 +3,7 @@
 
  "ferry_0_A": {
   "active": true,
-  "html": "<div style=\"text-align:center\"><p>{{keyword}} 관련 정보</p><a href=\"https://dividends.kdybest.com/?keyword={{keyword_url}}\">{{keyword}} 확인하기</a></div>"
+  "html": "<p style=\"text-align:center\">키워드: {{keyword}}</p>"
   },
 
   "ferry_1_A": {
