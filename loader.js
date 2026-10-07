@@ -3,7 +3,8 @@
     const jsonFiles = {
         'stockinfo_': '2000_stockinfo.json',
         'hotstock_': '3000_hotstock.json',
-        'dividend_': '5000_dividend.json'
+        'dividend_': '5000_dividend.json',
+        'ferry_': '7000_ferry.json'
     };
 
     const baseUrl = 'https://raw.githubusercontent.com/katekdy55-dot/link_html_v2/main/';
