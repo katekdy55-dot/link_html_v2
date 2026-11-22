@@ -1,1 +1,16 @@
+{
+  "_comment": "태일신 포스팅(8000부터)",
 
+  "taeilsin_info1": {
+    "active": true,
+    "_comment": "태일신 전화 문의(뚜껑 없음)",
+    "html": "<div style=\"text-align: center; margin: 50px 0;\"><div style=\"display: flex; justify-content: center; width: 100%;\"><div class=\"responsive-btn-wrapper\" style=\"text-align: left;\"><!-- 상단 인용구 영역 (센터 정렬) --><div style=\"margin-bottom: 12px; text-align: center;\"><p style=\"margin: 0; font-size: 16px; font-weight: 800; color: #1e293b; line-height: 1.5; word-break: keep-all; font-family: 'NanumSquare', sans-serif;\"><span style=\"font-family: Georgia, serif; color: #6366f1; font-size: 18px;\">“</span> 큰 결정 앞에서 망설여질 때 <span style=\"font-family: Georgia, serif; color: #6366f1; font-size: 18px;\">”</span><br><strong style=\"color: #2563eb; font-size: 17px;\">먼저 물어보고 정하세요</strong></p></div><!-- 버튼 컴포넌트 --><div><a href=\"tel:01023552080\" style=\"display: flex; align-items: stretch; text-decoration: none; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); background: linear-gradient(135deg, #4285F4, #9B51E0);\"><span style=\"flex: 1; box-sizing: border-box; padding: 26px 20px; font-weight: 800; font-size: 25px; letter-spacing: 0.5px; color: #ffffff; text-align: center; display: flex; align-items: center; justify-content: center; gap: 10px; line-height: 1;\"><span>태일신 전화 문의</span></span><span style=\"width: 72px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-weight: 900; background: #7B2CBF; color: #ffffff; font-size: 28px;\">➔</span></a></div></div></div></div>"
+  },
+
+  "taeilsin_info11": {
+    "active": true,
+    "_comment": "태일신 홈페이지(점집 컬러)",
+    "html": "<div style=\"text-align: center; margin: 50px 0;\"><div style=\"display: flex; justify-content: center; width: 100%;\"><div class=\"responsive-btn-wrapper\" style=\"text-align: left;\"><!-- 상단 인용구 영역 (센터 정렬) --><div style=\"margin-bottom: 12px; text-align: center;\"><p style=\"margin: 0; font-size: 16px; font-weight: 800; color: #1e293b; line-height: 1.5; word-break: keep-all; font-family: 'NanumSquare', sans-serif;\"><span style=\"font-family: Georgia, serif; color: #B8892B; font-size: 18px;\">“</span> 내 운의 흐름이 바뀌는 때가 있습니다 <span style=\"font-family: Georgia, serif; color: #B8892B; font-size: 18px;\">”</span><br><strong style=\"color: #8B1A1A; font-size: 17px;\">그 시기를 알아보세요</strong></p></div><!-- 버튼 컴포넌트 --><div><a href=\"https://taeilsin.kdsviolet.com/basic/?from=tistory2\" style=\"display: flex; align-items: stretch; text-decoration: none; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 14px rgba(27, 16, 51, 0.35); border: 1.5px solid #D4AF37; background: linear-gradient(135deg, #1B1033 0%, #2E1A5C 100%);\"><span style=\"flex: 1; box-sizing: border-box; padding: 26px 20px; font-weight: 800; font-size: 25px; letter-spacing: 0.5px; color: #F3D77A; text-align: center; display: flex; align-items: center; justify-content: center; gap: 10px; line-height: 1;\"><span>태일신 홈페이지</span></span><span style=\"width: 72px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-weight: 900; background: #9E1B1B; color: #F3D77A; font-size: 28px;\">➔</span></a></div></div></div></div>"
+ }
+
+}
